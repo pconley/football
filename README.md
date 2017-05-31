@@ -5,8 +5,8 @@ Based on the tutorial at https://www.sitepoint.com/building-apis-ruby-rails-grap
 But... 
 
 * used full rails app (not just the api)
-* added the football data
-* split into two api endpoint (movie and worldcup)
+* added the football data, models, controllers, etc.
+* split into two api endpoints (movie and worldcup)
 
 ## Technologies
 
